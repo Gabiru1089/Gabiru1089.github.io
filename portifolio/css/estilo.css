@@ -1,0 +1,82 @@
+.container {
+    display: flex;
+    padding: 0px;
+    font-size: 18px;
+}
+
+.paragrafo-centralizado{
+    text-align: justify;
+}
+
+.título{
+    font-size: 35px;
+}
+
+
+.centralizado-realmente{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+
+}
+
+nav{
+    background-color: rgb(25, 3, 3);
+    padding: 50px;
+    font-size: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+nav ul li {
+    padding: 50px;
+    text-align: center;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+nav ul li a:hover {
+    color: rgb(194, 13, 13);
+}
+
+section h1{
+    text-align: center;
+}
+
+section p{
+    text-align: justify;
+}
+
+
+section {
+    padding: 10px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+section ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.projetos{
+    color: rgb(221, 13, 13);
+}
+
+
+
+
+
